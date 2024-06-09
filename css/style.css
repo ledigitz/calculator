@@ -51,7 +51,7 @@
     grid-area: cl;
     background-color: rgb(182, 29, 29);
     height: 70px;
-    padding-top: 10%;
+    padding-top: 20%;
 }
 .slash{
     grid-area: sl;
